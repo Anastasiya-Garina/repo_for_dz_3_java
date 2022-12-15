@@ -24,5 +24,6 @@ public class dz_3_1 {
         for(int l = 0; l < Array2.length; l++) {
             System.out.print(Array2[l] + " ");
         }
+        sc.close();
     }
 }
